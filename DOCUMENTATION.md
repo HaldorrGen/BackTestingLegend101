@@ -465,7 +465,7 @@ The framework generates matplotlib-based visualizations:
 
 **Version**: 1.0  
 **Date**: January 2026  
-**Author**: Institutional Quantitative Analysis Team  
+**Author**: Перец
 **Classification**: Internal Technical Documentation
 
 ---
